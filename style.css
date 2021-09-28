@@ -16,6 +16,30 @@
     text-align: center;
 }
 
+.col-2-tre {
+    border: 3px solid rgb(255, 255, 255);
+    height: 200px;
+    text-align: center;
+    width: 97px;
+    background-color: salmon;
+}
+
+.col-4 {
+    border: 3px solid rgb(255, 255, 255);
+    height: 200px;
+    text-align: center;
+    width: 388px;
+    background-color: salmon;
+}
+
+.col-2-due {
+    height: 200px;
+    text-align: center;
+    border: 3px solid rgb(255, 255, 255);
+    width: 290px;
+    background-color: salmon;
+}
+
 .col-6 {
     border: 1px solid black;
     height: 200px;
