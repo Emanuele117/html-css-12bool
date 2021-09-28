@@ -1,0 +1,39 @@
+.container {
+    background-color: pink;
+    border: 1px solid black;
+    height: 1000px;
+}
+
+.col-1 {
+    border: 1px solid black;
+    height: 200px;
+    text-align: center;
+}
+
+.col-2 {
+    border: 1px solid black;
+    height: 200px;
+    text-align: center;
+}
+
+.col-6 {
+    border: 1px solid black;
+    height: 200px;
+    text-align: center;
+}
+
+.col-8 {
+    border: 1px solid black;
+    height: 200px;
+    text-align: center;
+}
+
+.col-12 {
+    border: 1px solid black;
+    height: 200px;
+    text-align: center;
+}
+
+p {
+    margin-top: 80px;
+}
